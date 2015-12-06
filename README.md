@@ -1,2 +1,2 @@
 # laravel-angular
-This is a laravel rest skeleton usigng angular as front-end framework
+This is a laravel rest skeleton using angular as the front-end framework
